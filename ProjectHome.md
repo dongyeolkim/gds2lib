@@ -1,0 +1,1 @@
+This is basically a library of functions to read & write gds2 files.
